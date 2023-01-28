@@ -1,9 +1,14 @@
+---
+lesson-example: "https://carpentries.github.io/lesson-example/"
+---
+
 # Haixin Liu
 ## a neuroscienctist studying perception and movement
 
 # exercise part
 # About
 
+See examples [examples of our work]({{ page.lesson-example}})
 ## Project
 This research project is all about teaching you how to create websites with GitHub pages.
 
