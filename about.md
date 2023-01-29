@@ -24,6 +24,7 @@ You can cite the project as:
 
 ## Contact us
 
-- Email: [{{ site.email }}](mailto:{{ site.email }})
-- Twitter: [{{ site.twitter}}]({{ site.twitter }})
-- LinkedIn: [{{ site.linkedin }}]({{ site.linkedin }})
+{% include footer.html %}
+
+
+
