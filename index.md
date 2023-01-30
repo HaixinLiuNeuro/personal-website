@@ -1,6 +1,3 @@
- {% include navigation.html %}
-
-
 # Building website in Github 
 
 ## Description
