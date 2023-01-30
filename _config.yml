@@ -3,3 +3,17 @@ websites in GitHub with GitHub Pages."
 email: "team@carpentries.org"
 twitter: "https://twitter.com/HaixinNeuro"
 linkedin: "https://www.linkedin.com/in/haixin-liu-3b5b0787"
+team_members:
+  -
+    name: "Robot A"
+    role: "Project Lead"
+    start_date: "2016-2-1"
+  -
+    name: "Robot B"
+    role: "Project Lead"
+    start_date: "2016-2-1"
+  -
+    name: "Robot C"
+    role: "Project Lead"
+    start_date: "2016-2-1"
+    
