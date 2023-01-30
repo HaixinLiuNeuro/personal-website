@@ -2,8 +2,6 @@
 lesson-example: "https://carpentries.github.io/lesson-example/"
 ---
 
-{% include navigation.html %}
-
 # Haixin Liu
 ## a neuroscienctist studying perception and movement
 
