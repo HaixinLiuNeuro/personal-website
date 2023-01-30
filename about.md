@@ -1,21 +1,26 @@
 ---
 lesson-example: "https://carpentries.github.io/lesson-example/"
-layout: default
+layout: page
 title: About
 ---
 
-# Haixin Liu
-## a neuroscienctist studying perception and movement
-
-# exercise part
 # About
 
 See examples [examples of our work]({{ page.lesson-example}})
 ## Project
-This research project is all about teaching you how to create websites with GitHub pages.
+{{ site.description }}
 
 ## Funders
 We gratefully acknowledge funding from the XYZ Founding Council, under grant number 'abc'.
+
+## Team
+
+The following people are members of our research team:
+{% for team_meamber in site.team_members %}
+- {{ team_member.name }}, role: {{ team_member.role }}
+{% endfor %}
+
+
 
 ## Cite us
 You can cite the project as:
