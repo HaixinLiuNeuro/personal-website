@@ -1,4 +1,7 @@
-# Building website in Github 
+---
+layout: home
+---
+# Building website in Github
 
 ## Description
 {{site.description}}
